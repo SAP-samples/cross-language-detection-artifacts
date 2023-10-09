@@ -24,6 +24,6 @@ Disclaimer: The code in this project may include calls to APIs ("API Calls") of
  you any rights to use or access any SAP External Product, or provide any third
  parties the right to use of access any SAP External Product, through API Calls.
 
-Files: *
+Files: Crosslanguage_model.pkl JS_monolanguage_model.pkl Py_monolanguage_model.pkl Labelled_Dataset.csv Malicious_Packages_Discovered.csv README.md scripts/*
 Copyright:  2023 SAP SE or an SAP affiliate company and cross-language-detection-artifacts contributors
 License: Apache-2.0
