@@ -1,0 +1,58 @@
+package_repository,package_name,description,Obfuscation type
+npm,aa-testkit-9.9.3,Data exfiltration,None
+npm,ast-viewer-8.2.6,Data exfiltration,None
+npm,babel-preset-geocaching-1.0.0,Data exfiltration,None
+npm,bank-aa-9.9.5,Data exfiltration,None
+npm,buffer-polyfill-9.9.3,Data exfiltration,None
+npm,bundled-deps-poc-1.0.0,Rickrolling Attack,None
+npm,cms-ui-components-721.78.2,Research Poc,AES-256
+npm,cnscode-1.0.0,Research Poc,None
+npm,cnscodes-6.0.0,Research Poc,None
+npm,codemirror-6-getting-started-8.2.6,Data exfiltration,None
+npm,colorajs-1.1.5,Dropper,None
+npm,geocaching-express-account-middleware-1.0.0,Data exfiltration,None
+npm,geocomponents-1.0.0,Data exfiltration,None
+npm,hardhat-config-1.0.0,Data exfiltration,Custom
+npm,hardhat-modern-1.0.1,Data exfiltration,Custom
+npm,new-contracts-9.9.3,Data Exfiltration,None
+npm,nodexda-1.0.0,Dropper,None
+npm,pluginji-api1337-9.9.3,Data exfiltration,None
+npm,rdocumentation-app-8.2.6,Data exfiltration,None
+npm,rdocumentation-workers-8.2.6,Data exfiltration,None
+npm,react-dropzone-3-900.9.9,Research Poc,AES-256
+npm,reviewstack-0.1.0,Data exfiltration,None
+npm,richsite-1.0.0,Data exfiltration,None
+npm,rickroll-on-install-1.0.1,Rickrolling attack,None
+npm,shein-bbl-1.0.0,Data exfiltration,None
+npm,shein-components-1.0.0,Data exfiltration,None
+npm,ta123123-1.0.0,Data exfiltration,None
+npm,vital-neat-engine-0.0.4,Reverse shell,None
+npm,waffles-next-doc-site-8.2.6,Data exfiltration,None
+npm,waffles2-presentation-8.2.6,Data exfiltration,None
+npm,we-lib-login-tgp-69.69.69,Data exfiltration,None
+npm,zvulnerabilityscanner-1.0.0,Dropper,None
+npm,duc.components.cardshell-10.0.5,Data exfiltration,None
+npm,duc.fragments.spinner-10.0.1,Data exfiltration,None
+npm,duc.utils.conditional-wrapper-10.0.1,Data exfiltration,None
+npm,duc.utils.conditional-wrapper-10.0.2,Data exfiltration,None
+npm,excessively-safe-call-9.9.3,Data exfiltration,None
+npm,file-dep-poc-2-1.0.0,Rickrolling attack,None
+pypi,phaseOne-1.0.7,Keylogger,None
+pypi,phaseOne-2.2.7,Keylogger,None
+pypi,ci_common_utils-0.4.0,Data exfiltration,None
+pypi,pkg-with-extras-0.4.0,Data exfiltration,None
+pypi,python-kudu-0.4.0,Data exfiltration,None
+pypi,sonic-py-common-0.4.0,"Data exfiltration ",None
+pypi,cnscodes-1.2.4,Dropper,None
+pypi,debricked-test-0.5,Reverse Shell,None
+pypi,Deepmountains_rce-0.0.1,Reverse Shell,None
+pypi,Deepmountains_wrce-0.0.1,Reverse Shell,None
+pypi,dlcsord-1.0.3,Dropper,Custom
+pypi,pycbytes-1.0.0,Dropper,Custom
+pypi,drawtime-0.9,Rickrolling Attack,None
+pypi,MuktesitTABAN-0.0.16,Data exfiltration,PyArmor
+pypi,tshawn_lrce-0.0.1,Reverse Shell,None
+pypi,tshawn_wrce-0.0.2,Reverse Shell,None
+pypi,rumihelling-0.0.1,Dropper,None
+pypi,rumihell-0.0.1,Dropper,None
+pypi,teleport-client-100.1.0,Data exfiltration,None
