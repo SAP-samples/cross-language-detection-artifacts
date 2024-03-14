@@ -18,7 +18,7 @@ Specifically:
 - `Malicious_Packages_Discovered.csv`: 
   - This file comprises a comprehensive list of malicious packages that were successfully detected during our real-world experiment. It details their characteristics, behavior types, and obfuscation techniques.
 - `scripts/*`:
-  - This folder contains the scripts to reproduce the evaluation and training of the models presented in the paper
+  - This folder contains various scripts including those to reproduce the evaluation and training of the models presented in the paper
 
 ## Requirements and Run
 
